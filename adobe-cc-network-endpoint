@@ -500,3 +500,5 @@ http-intake.logs.datadoghq.com
 dc.services.visualstudio.com
 pkgs.tailscale.com
 dl.tailscale.com
+wwwv2.tailscale.com
+tailscale.com
