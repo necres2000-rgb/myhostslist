@@ -495,3 +495,6 @@ nav.smartscreen.microsoft.com
 mask-h2.icloud.com
 mask.icloud.com
 login.tailscale.com
+pkgs.tailscale.com
+http-intake.logs.datadoghq.com
+dc.services.visualstudio.com
